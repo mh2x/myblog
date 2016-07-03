@@ -1,0 +1,17 @@
+
+p {
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 16pt;
+}
+h2 {
+	color: blue;
+}
+
+.photosection {
+	padding: 1%;
+	text-align: center;
+}
+
+#myphoto {
+	width: 40%;
+}
